@@ -7,4 +7,4 @@ I'm a passionate Geoscience student at UAE University with interests in GIS, Rem
 - Passionate about using geospatial technology to solve real-world problems
 
 **Connect with me:**  
-[LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/abrar-mohammed-205a80234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) | abrarsalemalbraiki@outlook.com
+[LinkedIn]( https://www.linkedin.com/in/abrar-mohammed-205a80234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | abrarsalemalbraiki@outlook.com
